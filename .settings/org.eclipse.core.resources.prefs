@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/qst/dms/db=GBK
+encoding//src/com/qst/dms/db/DBUtil.java=GBK
+encoding//src/com/qst/dms/dos=GBK
+encoding//src/com/qst/dms/entity/User.java=GBK
+encoding//src/com/qst/dms/service/UserService.java=GBK
+encoding//src/com/qst/dms/ui/RegistFrame.java=GBK
+encoding//src/com/qst/dms/util/Config.java=GBK
+encoding/MatchLogs.txt=UTF-8
+encoding/MatchedTransports.txt=UTF-8
+encoding/src=GBK
